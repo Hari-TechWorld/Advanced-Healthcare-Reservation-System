@@ -1,5 +1,5 @@
 # Doctor-Appointment-Scheduler
-A springboot based project that provides and easy to use web application which enables patients to schedule an appointment with a doctor of their choice.
+Java and Springboot based project that provides and easy to use web application which enables patients to schedule an appointment with a doctor of their choice.
 
 ### Functionalities
 * Patient Regitrsation
@@ -12,7 +12,6 @@ A springboot based project that provides and easy to use web application which e
 ### Tools and Technologies
 - Spring Boot
 - MVC Architecture
-- Thymeleaf templating
 - JPA
 - H2 inmemory database
 - CRUD operations
